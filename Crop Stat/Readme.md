@@ -59,7 +59,7 @@
         └── all tomato images
 ```
 
-- Download the repository `https://github.com/bishalsaraniah/Crop-Disease-Detection/` and mode the dataset folder inside it.
+- Download the repository `https://github.com/bishalsaraniah/Streamlit-Projects/tree/main/Crop%20Stat` and mode the dataset folder inside it.
 
 - Install all the dependencies via `pip` using the `requirements.txt` file.
 
