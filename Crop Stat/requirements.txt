@@ -1,0 +1,7 @@
+numpy
+pillow
+reportlab
+streamlit
+tensorflow
+python-dotenv
+google-generativeai
